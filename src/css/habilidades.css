@@ -1,0 +1,30 @@
+.habilidades .container-habilidades{
+    text-align: center;
+    justify-content: center;
+}
+.habilidades .container-habilidades .informacoes{
+    max-width: 350px;
+    padding: 40px 20px;
+}
+
+.habilidades .container-habilidades .informacoes p,
+.habilidades .container-habilidades .informacoes h3,
+.habilidades .container-habilidades .informacoes i{
+    transition: all 0.3s ease;
+}
+
+.habilidades .container-habilidades .informacoes h3{
+    color: var(--cor-primaria);
+    font-size: var(--fonte-extra-grande);
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.habilidades .container-habilidades .informacoes p{
+    font-size: 1.8rem;
+    font-family: var(--fonte-secundaria);
+    text-align: justify;
+}
+.habilidades .container-habilidades .informacoes i{
+    font-size: 8rem;
+}
+
