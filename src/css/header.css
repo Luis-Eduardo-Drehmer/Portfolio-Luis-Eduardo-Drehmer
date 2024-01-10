@@ -1,5 +1,6 @@
 .header {
     padding: 30px 15px;
+    background-color:  var(--cor-fundo-header-footer);
 }
 
 .header .logo {

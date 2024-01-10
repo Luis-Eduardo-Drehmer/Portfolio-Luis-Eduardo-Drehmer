@@ -7,6 +7,10 @@
     padding: 40px 20px;
 }
 
+.habilidades .container-habilidades .informacoes:hover{
+    color: var(--cor-primaria);
+}
+
 .habilidades .container-habilidades .informacoes p,
 .habilidades .container-habilidades .informacoes h3,
 .habilidades .container-habilidades .informacoes i{
