@@ -4,7 +4,8 @@
     --cor-branca:#fff;
     --cor-fundo-escuro:#040203;
     --cor-fundo-cinza-escuro:#282828;
-    --cor-fundo-cinza-claro:#353535;    
+    --cor-fundo-cinza-claro:#4f4f4f;  
+    --cor-fundo-header-footer:#5b1d95;  
 }
 :root{
     --fonte-primaria: 'Poppins', sans-serif;
