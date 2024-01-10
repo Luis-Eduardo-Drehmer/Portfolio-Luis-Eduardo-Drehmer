@@ -14,31 +14,33 @@
     border-radius: 40px;
 }
 
-.sobre .informacoes-sobre-mim{
+.sobre .informacoes-sobre-mim {
     max-width: 50%;
     padding: 0 25px;
 }
 
-.sobre .informacoes-sobre-mim .botoes{
-     margin-top: 50px;
+.sobre .informacoes-sobre-mim .botoes {
+    margin-top: 50px;
 }
 
-.sobre .informacoes-sobre-mim p{
+.sobre .informacoes-sobre-mim p {
     font-size: 1.8rem;
     margin-bottom: 20px;
     text-align: justify;
 }
 
-@media (max-width:980px){
-    .sobre .row{
+@media (max-width:980px) {
+    .sobre .row {
         justify-content: center;
     }
-    .sobre .imagem-sobre-mim{
+
+    .sobre .imagem-sobre-mim {
         max-width: 100%;
         padding: 0 var(--mobile-padding);
-        margin-bottom: 50px;        
+        margin-bottom: 50px;
     }
-    .sobre .informacoes-sobre-mim{
+
+    .sobre .informacoes-sobre-mim {
         padding: 0 var(--mobile-padding);
         text-align: center;
         max-width: 100%;

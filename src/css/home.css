@@ -1,5 +1,5 @@
 .home .full-screen {
-    max-height: 86vh;    
+    min-height: 86vh;    
     padding: 50px 0;
 }
 
