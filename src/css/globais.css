@@ -11,10 +11,10 @@ html {
 body {
     font-family: var(--fonte-primaria);
     font-size: var(--fonte-normal);
-    background-color: var(--cor-fundo-cinza-escuro);
+    background-color: var(--cor-fundo-cinza-escuro);    
 }
 
-body section:nth-child(even) {
+body div section:nth-child(odd) {
     background-color: var(--cor-fundo-cinza-claro);
 }
 
@@ -96,3 +96,4 @@ body section:nth-child(even) {
     background-color: var(--cor-secundaria);
     color: var(--cor-branca);
 }
+

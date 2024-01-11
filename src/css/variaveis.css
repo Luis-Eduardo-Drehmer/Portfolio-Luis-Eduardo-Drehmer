@@ -1,11 +1,11 @@
 :root{
     --cor-primaria:#43bd8e;
-    --cor-secundarioa:#fd6c22; 
+    --cor-secundaria:#fd6c22; 
     --cor-branca:#fff;
     --cor-fundo-escuro:#040203;
     --cor-fundo-cinza-escuro:#282828;
     --cor-fundo-cinza-claro:#4f4f4f;  
-    --cor-fundo-header-footer:#5b1d95;  
+    --cor-fundo-header-footer:#4c1580;  
 }
 :root{
     --fonte-primaria: 'Poppins', sans-serif;
