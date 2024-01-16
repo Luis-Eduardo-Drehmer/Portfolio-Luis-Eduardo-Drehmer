@@ -26,7 +26,7 @@
 .habilidades .container-habilidades .informacoes p{
     font-size: 1.8rem;
     font-family: var(--fonte-secundaria);
-    text-align: justify;
+    letter-spacing: 1px;
 }
 .habilidades .container-habilidades .informacoes i{
     font-size: 8rem;
